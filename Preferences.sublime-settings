@@ -1,10 +1,10 @@
 {
 	"font_face": "NanumGothicCoding",
-	"font_size": 12.0,
+	"font_size": 12,
 	"ignored_packages":
 	[
-		"Vintage",
-		"Markdown"
+		"Markdown",
+		"Vintage"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
