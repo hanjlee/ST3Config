@@ -1,8 +1,10 @@
 {
+	"color_scheme": "Packages/User/MarkdownEditor-Dark.tmTheme",
 	"font_face": "NanumGothicCoding",
-	"font_size": 12,
+	"font_size": 11,
 	"ignored_packages":
 	[
+		"Codecs33",
 		"Markdown",
 		"Vintage"
 	],

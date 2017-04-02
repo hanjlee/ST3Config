@@ -1,0 +1,28 @@
+{
+//    "browser": "default",
+//    "parser": "default",
+//    "build_action": "build",
+    "enable_mathjax": true,
+//    "enable_uml": false,
+//    "enable_highlight": false,
+//    "enable_pygments": true,
+//    "guess_language": true,
+//    "enabled_extensions": "default",
+//    "enabled_parsers": ["markdown", "github"],
+//    "markdown_binary_map": {
+//        "multimarkdown": ["/usr/local/bin/multimarkdown"]
+//    },
+//    "github_mode": "markdown",
+//    "github_inject_header_ids": false,
+//    "css": ["default"],
+//    "allow_css_overrides": true,
+//    "enable_autoreload": true,
+    "markdown_filetypes": [".md", ".markdown", ".mdown", ".mmd"],
+//    "html_simple": false,
+//    "image_path_conversion": "absolute",
+//    "file_path_conversions""k: "absolute",
+//    "strip_critic_marks": "none",
+//    "strip_yaml_front_matter": false,
+//    "show_panel_on_build": true,
+//    "embed_css_for_sublime_output": true,
+}
