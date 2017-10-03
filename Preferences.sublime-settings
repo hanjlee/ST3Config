@@ -1,6 +1,6 @@
 {
 	"color_scheme": "Packages/User/MarkdownEditor-Dark.tmTheme",
-	"font_face": "NanumGothicCoding",
+	"font_face": "D2Coding",
 	"font_size": 11,
 	"ignored_packages":
 	[
@@ -8,7 +8,7 @@
 		"Markdown",
 		"Vintage"
 	],
-	"line_padding_bottom": 1,
-	"line_padding_top": 1,
+//    "line_padding_top": 1,
+//    "line_padding_bottom": 1,
 	"wrap_width": 0
 }
